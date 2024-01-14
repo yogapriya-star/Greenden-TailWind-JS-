@@ -15,11 +15,10 @@ Tailwind-CSS is like a set of building blocks for styling websites. Instead of w
 1. Clone the repository:
    ```bash
    git clone https://github.com/yogapriya-star/Greenden-TailWind-JS-.git
-   
-  ```
+
+
 
 ## Tutorial Overview
-
 - HTML basics and structure
 - Tailwind-CSS styling and layout
 - Javascript interaction with pages
